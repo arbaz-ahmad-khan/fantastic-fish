@@ -1,0 +1,36 @@
+{
+    "id": "b0ab5e00-70bf-4554-9636-292bc0ae4bfe",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "d2c9a4e9-3283-46d0-b6c3-27c60a05ec45",
+            "label": "container_1",
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "8f7aa944-5766-453d-a91a-a1de4507444a",
+                    "label": "fish",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "Fish-1"
+                    }
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

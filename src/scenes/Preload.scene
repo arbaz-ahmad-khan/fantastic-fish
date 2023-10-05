@@ -1,0 +1,66 @@
+{
+    "id": "04331fb6-ed91-4d74-b6e9-4bfe0fcfb457",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadMethodName": "editorPreload",
+        "preloadPackFiles": [
+            "starter-template-basic-typescript/assets/asset-pack.json"
+        ],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Preload",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "a89871fd-797c-4b1e-9fb9-b202c673b961",
+            "label": "preload_BG",
+            "texture": {
+                "key": "preload-BG"
+            },
+            "x": 960,
+            "y": 540
+        },
+        {
+            "type": "Image",
+            "id": "a2260888-8f84-4e72-b92f-28042f2d20df",
+            "label": "playBtn",
+            "scope": "CLASS",
+            "texture": {
+                "key": "Play-button"
+            },
+            "x": 960,
+            "y": 917,
+            "visible": false
+        },
+        {
+            "type": "Image",
+            "id": "18e5e0e7-ee67-430d-bc0c-19758215ab32",
+            "label": "lOGO",
+            "texture": {
+                "key": "LOGO"
+            },
+            "x": 960,
+            "y": 492
+        },
+        {
+            "type": "Image",
+            "id": "b4cef7da-0a33-42c0-a9f9-8fc68ca241ae",
+            "label": "earthWorms",
+            "scope": "CLASS",
+            "texture": {
+                "key": "WORMS"
+            },
+            "x": 1259,
+            "y": 312
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

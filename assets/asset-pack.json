@@ -1,0 +1,289 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/gamePlay/_Score-Board.png",
+                "type": "image",
+                "key": "_Score-Board"
+            },
+            {
+                "url": "assets/Animations/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": [
+                    "assets/sounds/backgroundMusic.mp3"
+                ],
+                "type": "audio",
+                "key": "backgroundMusic"
+            },
+            {
+                "url": "assets/images/gamePlay/BG.png",
+                "type": "image",
+                "key": "BG"
+            },
+            {
+                "url": "assets/images/box.png",
+                "type": "image",
+                "key": "box"
+            },
+            {
+                "url": "assets/images/box1.png",
+                "type": "image",
+                "key": "box1"
+            },
+            {
+                "url": "assets/images/box2.png",
+                "type": "image",
+                "key": "box2"
+            },
+            {
+                "url": "assets/images/bubble/bubble-1.png",
+                "type": "image",
+                "key": "bubble-1"
+            },
+            {
+                "url": "assets/images/bubble/bubble-2.png",
+                "type": "image",
+                "key": "bubble-2"
+            },
+            {
+                "url": "assets/images/fishDead/dead-1.png",
+                "type": "image",
+                "key": "dead-1"
+            },
+            {
+                "url": "assets/images/fishDead/dead-2.png",
+                "type": "image",
+                "key": "dead-2"
+            },
+            {
+                "url": "assets/images/fishDead/dead-3.png",
+                "type": "image",
+                "key": "dead-3"
+            },
+            {
+                "url": "assets/images/fishDead/dead-4.png",
+                "type": "image",
+                "key": "dead-4"
+            },
+            {
+                "url": "assets/images/fishDead/dead-5.png",
+                "type": "image",
+                "key": "dead-5"
+            },
+            {
+                "url": [
+                    "assets/sounds/deadFish.wav"
+                ],
+                "type": "audio",
+                "key": "deadFish"
+            },
+            {
+                "url": "src/scenes/prefabs/EarthWorm.js",
+                "type": "script",
+                "key": "EarthWorm"
+            },
+            {
+                "url": "assets/images/gamePlay/earthworm1.png",
+                "type": "image",
+                "key": "earthworm1"
+            },
+            {
+                "url": "assets/images/gamePlay/earthworm2.png",
+                "type": "image",
+                "key": "earthworm2"
+            },
+            {
+                "url": "assets/images/gamePlay/earthworm3.png",
+                "type": "image",
+                "key": "earthworm3"
+            },
+            {
+                "url": "assets/images/gamePlay/earthworm4.png",
+                "type": "image",
+                "key": "earthworm4"
+            },
+            {
+                "url": "assets/images/gamePlay/Fish-1.png",
+                "type": "image",
+                "key": "Fish-1"
+            },
+            {
+                "url": "assets/images/gamePlay/Fish-2.png",
+                "type": "image",
+                "key": "Fish-2"
+            },
+            {
+                "url": "assets/images/gamePlay/Fish-3.png",
+                "type": "image",
+                "key": "Fish-3"
+            },
+            {
+                "url": "assets/images/gamePlay/Fish-4.png",
+                "type": "image",
+                "key": "Fish-4"
+            },
+            {
+                "url": "assets/images/gamePlay/Fish-5.png",
+                "type": "image",
+                "key": "Fish-5"
+            },
+            {
+                "url": "assets/images/gamePlay/Fish-6.png",
+                "type": "image",
+                "key": "Fish-6"
+            },
+            {
+                "url": [
+                    "assets/sounds/fishEat.wav"
+                ],
+                "type": "audio",
+                "key": "fishEat"
+            },
+            {
+                "url": "assets/images/fishEat/fishEat-1.png",
+                "type": "image",
+                "key": "fishEat-1"
+            },
+            {
+                "url": "assets/images/fishEat/fishEat-2.png",
+                "type": "image",
+                "key": "fishEat-2"
+            },
+            {
+                "url": "assets/images/fishEat/fishEat-3.png",
+                "type": "image",
+                "key": "fishEat-3"
+            },
+            {
+                "url": "assets/images/fishEat/fishEat-4.png",
+                "type": "image",
+                "key": "fishEat-4"
+            },
+            {
+                "url": "assets/images/fishEat/fishEat-5.png",
+                "type": "image",
+                "key": "fishEat-5"
+            },
+            {
+                "url": "assets/images/fishEat/fishEat-6.png",
+                "type": "image",
+                "key": "fishEat-6"
+            },
+            {
+                "url": "assets/images/fishEat/fishEat-7.png",
+                "type": "image",
+                "key": "fishEat-7"
+            },
+            {
+                "url": "src/scenes/prefabs/Fishes.js",
+                "type": "script",
+                "key": "Fishes"
+            },
+            {
+                "url": "assets/images/fishSkeleton.png",
+                "frameConfig": {
+                    "frameWidth": 204,
+                    "frameHeight": 90,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fishSkeleton"
+            },
+            {
+                "url": "assets/images/gameOver/game-over-BG.png",
+                "type": "image",
+                "key": "game-over-BG"
+            },
+            {
+                "url": "assets/images/gameOver/Game-over-box.png",
+                "type": "image",
+                "key": "Game-over-box"
+            },
+            {
+                "url": "assets/images/gameOver/Game-over-text.png",
+                "type": "image",
+                "key": "Game-over-text"
+            },
+            {
+                "url": [
+                    "assets/sounds/gameEnd.mp3"
+                ],
+                "type": "audio",
+                "key": "gameEnd"
+            },
+            {
+                "url": "assets/images/gamePlay/lifeOff.png",
+                "type": "image",
+                "key": "lifeOff"
+            },
+            {
+                "url": "assets/images/gamePlay/lifeOn.png",
+                "type": "image",
+                "key": "lifeOn"
+            },
+            {
+                "url": "assets/images/gamePlay/Menu.png",
+                "type": "image",
+                "key": "Menu"
+            },
+            {
+                "url": "assets/images/gameOver/play-again-button.png",
+                "type": "image",
+                "key": "play-again-button"
+            },
+            {
+                "url": "assets/images/gamePlay/player.png",
+                "type": "image",
+                "key": "player"
+            },
+            {
+                "url": "assets/images/gameOver/Red-fish.png",
+                "type": "image",
+                "key": "Red-fish"
+            },
+            {
+                "url": "assets/images/gamePlay/Score-Text.png",
+                "type": "image",
+                "key": "Score-Text"
+            },
+            {
+                "url": "assets/images/gamePlay/Submarine.png",
+                "type": "image",
+                "key": "Submarine"
+            },
+            {
+                "url": "assets/images/gameOver/Submarine.png",
+                "type": "image",
+                "key": "Submarine_1"
+            },
+            {
+                "url": "src/scenes/prefabs/SubmarineCartoon.js",
+                "type": "script",
+                "key": "SubmarineCartoon"
+            },
+            {
+                "url": "assets/images/sunmarine.png",
+                "type": "image",
+                "key": "sunmarine"
+            },
+            {
+                "url": "assets/images/gamePlay/Zoom-out.png",
+                "type": "image",
+                "key": "Zoom-out"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

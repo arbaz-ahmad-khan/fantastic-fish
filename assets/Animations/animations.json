@@ -1,0 +1,168 @@
+{
+    "anims": [
+        {
+            "key": "deadFish",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fishSkeleton",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 8,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 9,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 10,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishSkeleton",
+                    "frame": 11,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "fishDead",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dead-1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dead-2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dead-3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dead-4",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dead-5",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "fishEat",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fishEat-1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishEat-2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishEat-3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishEat-5",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishEat-6",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fishEat-7",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

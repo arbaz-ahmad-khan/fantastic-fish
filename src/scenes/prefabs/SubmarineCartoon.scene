@@ -1,0 +1,36 @@
+{
+    "id": "c4c0411d-155d-463f-8c8e-713cb1feb482",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "fccaa947-194c-4791-a3bb-a152dcd70b0c",
+            "label": "container_1",
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "2c7f7d89-8a19-4df8-b440-750c211ea4a2",
+                    "label": "submarine",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "Submarine"
+                    }
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

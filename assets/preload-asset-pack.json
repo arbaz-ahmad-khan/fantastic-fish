@@ -1,0 +1,58 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/preload/bubble-1.png",
+                "type": "image",
+                "key": "bubble-1"
+            },
+            {
+                "url": "assets/images/preload/bubble-2.png",
+                "type": "image",
+                "key": "bubble-2"
+            },
+            {
+                "url": "assets/images/preload/Loading-bar.png",
+                "type": "image",
+                "key": "Loading-bar"
+            },
+            {
+                "url": "assets/images/preload/Loading-case.png",
+                "type": "image",
+                "key": "Loading-case"
+            },
+            {
+                "url": "assets/images/preload/Loading-Fish.png",
+                "type": "image",
+                "key": "Loading-Fish"
+            },
+            {
+                "url": "assets/images/preload/LOGO.png",
+                "type": "image",
+                "key": "LOGO"
+            },
+            {
+                "url": "assets/images/preload/Play-button.png",
+                "type": "image",
+                "key": "Play-button"
+            },
+            {
+                "url": "assets/images/preload/preload-BG.png",
+                "type": "image",
+                "key": "preload-BG"
+            },
+            {
+                "url": "assets/images/preload/WORMS.png",
+                "type": "image",
+                "key": "WORMS"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
